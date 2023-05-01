@@ -1,0 +1,5 @@
+aarch64/pwnbox-lfs.db filter=lfs diff=lfs merge=lfs -text
+aarch64/pwnbox-lfs.files filter=lfs diff=lfs merge=lfs -text
+x86_64/pwnbox-lfs.db filter=lfs diff=lfs merge=lfs -text
+x86_64/pwnbox-lfs.files filter=lfs diff=lfs merge=lfs -text
+aarch64/mingw-w64-10.0.0-3-aarch64.pkg.tar.xz filter=lfs diff=lfs merge=lfs -text
